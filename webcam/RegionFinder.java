@@ -10,7 +10,7 @@ import java.util.*;
  * @author Chris Bailey-Kellogg, Winter 2014 (based on a very different structure from Fall 2012)
  * @author Travis W. Peters, Dartmouth CS 10, Updated Winter 2015
  * @author CBK, Spring 2015, updated for CamPaint
- * 
+ * @author Brittany Critchfield, CS10 Fall 2018
  * 
  * 
  * WRITEUP:
